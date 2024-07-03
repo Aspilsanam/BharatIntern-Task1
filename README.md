@@ -17,4 +17,5 @@ Phase 4: Testing and Integrating with UI
 
 
  CONCLUSION
+ 
 Thus the machine learning model to predict the house price based ongiven dataset is executed successfully using xg regressor (a upgraded/slighted boosted form of regular linear regression, this gives lesser error). This model further helps people understand whether this place is more suited for them based on heatmap correlation. It also helps people looking to sell a house at best time for greater profit. Any house price in any location can be predicted with minimum errorby giving appropriate dataset.
