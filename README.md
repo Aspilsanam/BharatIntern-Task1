@@ -2,8 +2,6 @@
 
 OBJECTIVE  
 
-Here is a 50-word summary of the text:
-
 The project aims to develop a system that predicts house prices based on average income, area, and market trends. It aims to provide customers with a fast and accurate way to find homes within their budget, eliminating the need for real estate agents and ensuring the best price without getting cheated.
 
 
