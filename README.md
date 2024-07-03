@@ -15,6 +15,14 @@ Phase 3: Training the model
  
 Phase 4: Testing and Integrating with UI
 
+REFERENCES
+
+https://www.youtube.com/watch?v=FVScJnpmHVk&list=PLvAny7IxIkMXM5gNucKUbwhqN2SHLtEG0&index=3
+
+https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
+
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+
 
  CONCLUSION
  
